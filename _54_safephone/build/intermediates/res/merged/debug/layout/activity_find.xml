@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4d73ff"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="手机防盗"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
+    <com.jlucs.safephone.view.SettingItemView
+        android:id="@+id/sim"
+        android:layout_width="wrap_content"
+        android:layout_height="160dp"
+        android:layout_margin="10dp"></com.jlucs.safephone.view.SettingItemView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="left"
+        android:padding="5dp"
+        android:text="设置安全电话号码"
+        android:textColor="#e91e63"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/et_safe_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="请输入安全号码" />
+
+    <Button
+        android:id="@+id/btn_select_contact"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:background="@drawable/selecter_button"
+        android:onClick="selectContact"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:text="选择联系人"
+        android:drawableLeft="@drawable/ic_account_circle_white_24dp"
+        android:drawablePadding="5dp"
+        android:textColor="@android:color/white"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/btn_set_safe_number"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:background="@drawable/selecter_button"
+        android:onClick="saveNmber"
+        android:paddingLeft="25dp"
+        android:drawableLeft="@drawable/ic_done_white_24dp"
+        android:drawablePadding="5dp"
+        android:paddingRight="25dp"
+        android:text="保存安全号码"
+        android:textColor="@android:color/white"
+        android:textSize="14sp" />
+
+</LinearLayout>

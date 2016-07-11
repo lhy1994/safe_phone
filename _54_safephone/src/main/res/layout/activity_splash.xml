@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/photo_splash"
+    android:id="@+id/ll_splash"
+    >
+    <com.romainpiel.titanic.library.TitanicTextView
+        android:id="@+id/titanic_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:text="Loading"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#212121"
+        android:textSize="60sp"
+        android:typeface="serif"
+        />
+</LinearLayout>

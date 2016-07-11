@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.jlucs.safephone.MainActivity" >
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#5677fc"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="功能列表"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="5dp"
+        android:textColor="@android:color/black"
+        android:singleLine="true"
+        android:text="点击修改密码按钮可以修改登录密码，使用密码保险箱功能时需要输入保险箱密码，进入密码保险箱界面后，可以修改保险箱密码，保险箱密码默认为123456" />
+
+    <GridView
+        android:id="@+id/gv_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:listSelector="@drawable/selecter_main"
+        android:numColumns="3" >
+    </GridView>
+
+</LinearLayout>

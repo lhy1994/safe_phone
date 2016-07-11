@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_card_travel_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_card_travel_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cached_white_18dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_cached_white_18dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact_phone_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_contact_phone_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact_mail_black_36dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_contact_mail_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_splash.jpg",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\photo_splash.jpg"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\message.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\repair.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\repair.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_call_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_call_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_black_18dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_delete_black_18dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mode_edit_black_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_mode_edit_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_credit_card_white_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_credit_card_white_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_phone_white_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_phone_white_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_done_white_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_border_color_black_18dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_border_color_black_18dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_back_white_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact_phone_black_36dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_contact_phone_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_perm_contact_calendar_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_perm_contact_calendar_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\telepon.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\telepon.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sleep_button_pressed.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\sleep_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_white_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_card_travel_black_36dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_card_travel_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_account_circle_white_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_account_circle_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_https_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_https_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_build_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_build_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_credit_card_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_credit_card_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_black_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_border_color_black_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_border_color_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact_phone_white_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_contact_phone_white_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_build_black_36dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_build_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sleep_button.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\sleep_button.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cached_white_36dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_cached_white_36dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_white_36dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_add_white_36dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_search_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_send_white_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_send_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact_mail_white_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_contact_mail_white_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_account_circle_white_18dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_account_circle_white_18dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_person_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_person_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_email_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_email_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_black_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_build_black_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_build_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_domain_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_domain_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_perm_identity_white_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_perm_identity_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shield.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\shield.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact_mail_black_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_contact_mail_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cached_white_24dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_cached_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_assignment_ind_black_36dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_assignment_ind_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\map.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock2.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\lock2.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_account_circle_white_48dp.png",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\drawable-hdpi\\ic_account_circle_white_48dp.png"
+    }
+]

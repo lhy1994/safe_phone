@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+    <TextView 
+        android:id="@+id/tv_login"
+        android:text="用户登录"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_gravity="center_horizontal"
+        android:padding="10dp"
+        android:layout_marginTop="100dp"
+        android:textColor="#4d73ff"
+        />
+  
+    <EditText 
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入密码"
+        android:layout_margin="30dp"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        />
+    <Button 
+        android:id="@+id/btn_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="登录"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/selecter_button"
+        android:onClick="login"
+        android:paddingLeft="25dp"
+        android:drawableLeft="@drawable/ic_perm_identity_white_24dp"
+        android:drawablePadding="5dp"
+        android:paddingRight="25dp"
+        android:textSize="14sp"
+        android:textColor="@android:color/white"
+        />
+
+</LinearLayout>

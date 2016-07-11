@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f5f5"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#3f51b5">
+
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/ic_arrow_back_white_24dp"
+            android:gravity="center"
+            android:onClick="finishContactDetail"
+            android:padding="10dp" />
+
+        <TextView
+            android:id="@+id/tv_contacts_detail_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="联系人详情"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/ic_phone_white_48dp"
+            android:onClick="call" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="#3f51b5"
+        android:src="@drawable/ic_account_circle_white_48dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:drawableLeft="@drawable/ic_person_black_48dp"
+                android:drawablePadding="15dp"
+                android:gravity="center"
+                android:text="姓名"
+                android:textAlignment="center"
+                android:textColor="#e91e63"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/tv_contact_detail_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="15dp"
+                android:text="刘昊源"
+                android:textColor="#616161"
+                android:textSize="22sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="10dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:drawableLeft="@drawable/ic_call_black_48dp"
+                android:drawablePadding="15dp"
+                android:gravity="center"
+                android:text="电话"
+                android:textAlignment="center"
+                android:textColor="#e91e63"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/tv_contact_detail_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="15dp"
+                android:text="18947309161"
+                android:textColor="#616161"
+                android:textSize="22sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="10dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:drawableLeft="@drawable/ic_email_black_48dp"
+                android:drawablePadding="15dp"
+                android:gravity="center"
+                android:text="邮件"
+                android:textAlignment="center"
+                android:textColor="#e91e63"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/tv_contact_detail_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="15dp"
+                android:text="844873090@qq.com"
+                android:textColor="#616161"
+                android:textSize="22sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="10dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:drawableLeft="@drawable/ic_domain_black_48dp"
+                android:drawablePadding="15dp"
+                android:gravity="center"
+                android:text="地址"
+                android:textAlignment="center"
+                android:textColor="#e91e63"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/tv_contact_detail_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="15dp"
+                android:text="吉林大学"
+                android:textColor="#616161"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

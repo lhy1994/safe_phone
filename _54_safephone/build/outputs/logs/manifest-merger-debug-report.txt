@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:2:1-84:12
+	package
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml
+		INJECTED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml
+		INJECTED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml
+		INJECTED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml
+		INJECTED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml
+		INJECTED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:14:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:16:22-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:19:22-69
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:20:22-70
+uses-permission#android.permission.READ_SMS
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:23:22-66
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:24:22-70
+application
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:25:5-82:19
+MERGED from [54_safephone1:main:unspecified] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\54_safephone1\main\unspecified\AndroidManifest.xml:6:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:27:9-45
+	android:theme
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:29:9-53
+activity#com.jlucs.safephone.MainActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:31:13-41
+activity#com.jlucs.safephone.SplashActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:34:9-40:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:34:19-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:38:27-74
+activity#com.jlucs.safephone.LoginActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:41:9-42:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:41:19-67
+activity#com.jlucs.safephone.ContactsActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:43:9-44:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:43:19-70
+activity#com.jlucs.safephone.MessageActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:45:9-46:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:45:19-69
+activity#com.jlucs.safephone.RecordActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:47:9-48:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:47:19-68
+activity#com.jlucs.safephone.PasswordActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:49:9-50:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:49:19-70
+activity#com.jlucs.safephone.FindActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:51:19-66
+activity#com.jlucs.safephone.SelectContactActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:53:9-54:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:53:19-75
+activity#com.jlucs.safephone.SearchActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:55:9-56:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:55:19-68
+activity#com.jlucs.safephone.ContactsAdds
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:57:9-58:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:57:19-47
+activity#com.jlucs.safephone.RecordAdds
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:59:9-60:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:59:19-45
+activity#com.jlucs.safephone.MessageView
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:61:9-63:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:61:19-46
+activity#com.jlucs.safephone.MessageAdds
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:65:9-66:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:65:19-46
+activity#com.jlucs.safephone.ContactsActivity2
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:67:9-68:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:67:19-52
+activity#com.jlucs.safephone.ContactDetailActivity
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:69:9-70:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:69:19-56
+receiver#com.jlucs.safephone.receiver.BootCompleteReceiver
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:71:9-76:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:71:19-83
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:72:13-75:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:73:17-74:26
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:73:25-76
+receiver#com.jlucs.safephone.receiver.SmsReceiver
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:77:9-81:20
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:77:19-74
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:78:13-80:29
+	android:priority
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:78:28-51
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:79:25-79
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:2:1-84:12 reason: com.romainpiel.titanic.library has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:2:1-84:12 reason: com.romainpiel.titanic.library requested WRITE_EXTERNAL_STORAGE

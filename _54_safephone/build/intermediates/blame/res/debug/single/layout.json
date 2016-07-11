@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\safe_contact_list_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\safe_contact_list_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_message.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_add_message.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_record.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_add_record.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts_detail.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_contacts_detail.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\message_list_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\message_list_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\password_list_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\password_list_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_detail.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_message_detail.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_password.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_password.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\setting_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_find.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_password.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\dialog_password.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update_password.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\dialog_update_password.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\record_list_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\record_list_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\gridlist_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\src\\main\\res\\layout\\gridlist_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Androidworkplace\\54_safephone1\\_54_safephone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    }
+]
