@@ -2,74 +2,94 @@
 <items version="2" >
 
     <item
-        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_e7461f5cb8175d190e5b5b05ebe786fc0cf0d011.jar" />
-    </item>
-    <item
-        jar="C:\Users\liuhaoyuan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_a64f664aca7bc1d15a0fbb286933e04d18fd8b8b.jar" />
-    </item>
-    <item
-        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_81021336da30f00300b56876c8400996cc037c14.jar" />
-    </item>
-    <item
-        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_54f5fedcdc3e1f38132bc0cca842810ed03bbd88.jar" />
-    </item>
-    <item
-        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="28b9bdd27fdd48e04088ca9296ce66d54cb9c428">
-        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\pre-dexed\debug\instant-run-bootstrap_992082208db515a293e0a19813fc40a4db038a65.jar" />
-    </item>
-    <item
-        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_1d0c820ef4939f911f50b44227cdfa4ba2f2bde1.jar" />
-    </item>
-    <item
-        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_34bb70e02f4900a3dabb9b0e83ad59aec1fd8b27.jar" />
-    </item>
-    <item
-        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_1b9d3d14b7a485167ca0775d6415f42c90c18edc.jar" />
-    </item>
-    <item
-        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_a398b754babee666dcef6c9a75605374484af83b.jar" />
-    </item>
-    <item
+        is-multidex="true"
         jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
+        optimize="true"
         revision="23.0.3"
-        sha1="2f156e5cf5678a1f3652547c0ac76e3951786df7">
-        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\pre-dexed\debug\instant-run_9f61a91c0ac811d398c6ff4521da4fafa529dee4.jar" />
+        sha1="82896c0d32e8cfdc297d581bf0e16b9278935583">
+        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9f61a91c0ac811d398c6ff4521da4fafa529dee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_34bb70e02f4900a3dabb9b0e83ad59aec1fd8b27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_a398b754babee666dcef6c9a75605374484af83b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_54f5fedcdc3e1f38132bc0cca842810ed03bbd88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_8452896f382bf7758fa53eb87c956b1c7e39f299\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_1d0c820ef4939f911f50b44227cdfa4ba2f2bde1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="739a6e2d31d700187e07b1d6cc230bc8cd29c076">
+        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_992082208db515a293e0a19813fc40a4db038a65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_81021336da30f00300b56876c8400996cc037c14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_e7461f5cb8175d190e5b5b05ebe786fc0cf0d011\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_1b9d3d14b7a485167ca0775d6415f42c90c18edc\classes.dex" />
     </item>
 
 </items>

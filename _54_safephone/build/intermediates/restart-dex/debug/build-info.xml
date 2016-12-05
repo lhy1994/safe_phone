@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="18"
-    density="560dpi"
-    format="7"
-    timestamp="3039463794889" >
+    api-level="21"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="352224346370465"
+    token="7196263023480612002"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="3081" />
+        duration="15901" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1322" />
+        duration="4623" />
     <task
         name="verifier"
-        duration="158" />
+        duration="236" />
 
     <artifact
         location="D:\Androidworkplace\54_safephone1\_54_safephone\build\outputs\apk\_54_safephone-debug.apk"
         type="MAIN" />
 
-    <build timestamp="3039463794889" >
+    <build
+        timestamp="352224346370465"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Androidworkplace\54_safephone1\_54_safephone\build\outputs\apk\_54_safephone-debug.apk"
             type="MAIN" />

@@ -17,18 +17,12 @@ ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManif
 		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -98,17 +92,11 @@ ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManif
 application
 ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:25:5-82:19
 MERGED from [54_safephone1:main:unspecified] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\54_safephone1\main\unspecified\AndroidManifest.xml:6:5-20
-MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] D:\Androidworkplace\54_safephone1\_54_safephone\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from D:\Androidworkplace\54_safephone1\_54_safephone\src\main\AndroidManifest.xml:28:9-41
 	android:allowBackup
